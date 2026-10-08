@@ -1,0 +1,32 @@
+# ---------- MATLAB ----------
+*.asv
+*.m~
+*.autosave
+*.mex*
+*.mlx.bak
+slprj/
+codegen/
+octave-workspace
+
+# ---------- Generated results ----------
+results/
+*.mat
+*.fig
+*.png
+*.log
+
+# ---------- Local / demo data ----------
+demo_real_track.csv
+data/
+*.csv.bak
+
+# ---------- OS files ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Editors / IDEs ----------
+.vscode/
+.idea/
+*.swp
+*~
